@@ -8,7 +8,6 @@ import PostView from './pages/PostView';
 import NewPost from './pages/NewPost';
 import Login from './pages/Login';
 import Register from './pages/Register';
-
 function App(){
   return (
     <AuthProvider>
